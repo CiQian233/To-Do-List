@@ -47,13 +47,6 @@ open todo.html   # 或直接双击 todo.html
 - **CSS3** — 渐变背景、过渡动画、Flexbox 响应式布局
 - **JavaScript (ES6+)** — DOM 操作、事件处理、localStorage API
 
-## 截图
-
-> 将截图上传至仓库后，使用以下格式添加：
->
-> ```markdown
-> ![截图](screenshots/todo-app.png)
-> ```
 
 ## 开源协议
 
